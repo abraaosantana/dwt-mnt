@@ -112,11 +112,8 @@ Theme Version:	6.0.0
 	background: #F7F9FC;
 	display: block;
 	overflow: hidden;
-	position: relative;
-	text-decoration: none;
 	max-width: 100%;
 	text-align: center;
-	padding: 0;
 	text-decoration: none;
 }
 
@@ -217,7 +214,7 @@ Theme Version:	6.0.0
 	-webkit-transition: all 0.2s ease 0s;
 	-moz-transition: all 0.2s ease 0s;
 	transition: all 0.2s ease 0s;
-	left: 0%;
+	left: 0;
 	opacity: 0;
 }
 
@@ -231,7 +228,7 @@ Theme Version:	6.0.0
 	-webkit-transition: all 0.2s ease 0s;
 	-moz-transition: all 0.2s ease 0s;
 	transition: all 0.2s ease 0s;
-	right: 0%;
+	right: 0;
 	font-weight: 600;
 	opacity: 0;
 }
@@ -368,7 +365,6 @@ Theme Version:	6.0.0
 	height: 1.2em;
 	line-height: 1em;
 	overflow: hidden;
-	position: relative;
 	width: 5.4em;
 	margin-bottom: 25px;
 }
@@ -580,14 +576,10 @@ Theme Version:	6.0.0
 	transition: all 0.2s;
 	border-radius: 6px;
 	padding: 0;
-	position: relative;
-	border: 0;
-	border-bottom: 3px solid #E3E4E8;
 	background: #F7F9FC;
 	display: block;
 	overflow: hidden;
 	position: relative;
-	text-decoration: none;
 	max-width: 100%;
 	text-align: center;
 	border: 1px solid #DDD;
